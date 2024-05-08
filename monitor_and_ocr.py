@@ -67,7 +67,7 @@ def monitor_folder(folder: str):
 
     try:
         while True:
-            time.sleep(3)  # 每秒检查一次
+            time.sleep(3)  # 每3秒检查一次
     except KeyboardInterrupt:
         observer.stop()
 
