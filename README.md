@@ -16,3 +16,8 @@ pyinstaller --onefile monitor_and_ocr.py
 
 ## 效果
 ![image](https://github.com/Cunninger/Monitor-OCR/assets/113076850/853c6f83-0a57-4bfb-adf4-84f0cd8ba21c)
+
+## 求个star
+![image](https://github.com/Cunninger/Faster-OCR/assets/113076850/9a8b8c14-0ea4-4da4-a302-89a800161b9f)
+
+
